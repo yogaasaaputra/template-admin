@@ -1,5 +1,4 @@
 # template-admin
-<br>
 <br> Fitur : 
 <br> - Sistem Login (Login & Register)
 <br> - User Activation with Email (Google)
